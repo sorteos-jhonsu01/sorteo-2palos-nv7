@@ -1,0 +1,26 @@
+{
+  "slug": "sorteo-2palos-nv7",
+  "title": "Sorteo 2.000.000",
+  "description": "Juega con la de Boyacá 7 Noviembre 2026",
+  "prize": "2.000.000 Palos",
+  "priceCents": 400000,
+  "currency": "COP",
+  "numberRange": {
+    "min": 1,
+    "max": 999
+  },
+  "startsAt": "2026-11-02T22:09:33.445Z",
+  "endsAt": "2026-11-08T03:20:00.000Z",
+  "drawAt": "2026-11-08T04:05:00.000Z",
+  "minSoldToDraw": 600,
+  "status": "ACTIVE",
+  "winner": null,
+  "media": {},
+  "prizeItems": [],
+  "prizeTotalCents": 0,
+  "theme": {},
+  "organizer": {
+    "name": "Rifas la bendición- Álvaro y Yorlando",
+    "regime": "DESCENTRALIZADA"
+  }
+}

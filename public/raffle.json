@@ -15,10 +15,23 @@
   "minSoldToDraw": 600,
   "status": "ACTIVE",
   "winner": null,
-  "media": {},
-  "prizeItems": [],
-  "prizeTotalCents": 0,
-  "theme": {},
+  "media": {
+    "cover": "https://raw.githubusercontent.com/sorteos-jhonsu01/sorteo-2palos-nv7/main/public/media/30eb9664c31529a0.jpg",
+    "youtubeId": "h1PknX_-8Gc"
+  },
+  "prizeItems": [
+    {
+      "name": "2.000.000",
+      "featured": false,
+      "imageUrl": "https://raw.githubusercontent.com/sorteos-jhonsu01/sorteo-2palos-nv7/main/public/media/6821ed42ee8474b7.jpg",
+      "valueCents": 200000000,
+      "description": "Efectivo"
+    }
+  ],
+  "prizeTotalCents": 200000000,
+  "theme": {
+    "accent": "#34d058"
+  },
   "organizer": {
     "name": "Rifas la bendición- Álvaro y Yorlando",
     "regime": "DESCENTRALIZADA"

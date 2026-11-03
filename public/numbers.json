@@ -1,6 +1,20 @@
 {
-  "version": "2026-11-02T23:59:12.088Z",
+  "version": "2026-11-03T00:01:45.783Z",
   "sold": [
+    {
+      "number": 19,
+      "buyer": "Mónica S.",
+      "city": "Villanuva",
+      "purchasedAt": "2026-11-02T23:58:18.637Z",
+      "verifiedAt": "2026-11-03T00:01:45.751Z"
+    },
+    {
+      "number": 50,
+      "buyer": "Mónica S.",
+      "city": "Villanuva",
+      "purchasedAt": "2026-11-02T23:58:18.637Z",
+      "verifiedAt": "2026-11-03T00:01:45.751Z"
+    },
     {
       "number": 89,
       "buyer": "Maicol R.",
@@ -49,6 +63,13 @@
       "city": "Villanueva",
       "purchasedAt": "2026-11-02T23:29:55.656Z",
       "verifiedAt": "2026-11-02T23:39:51.214Z"
+    },
+    {
+      "number": 691,
+      "buyer": "Mónica S.",
+      "city": "Villanuva",
+      "purchasedAt": "2026-11-02T23:58:18.637Z",
+      "verifiedAt": "2026-11-03T00:01:45.751Z"
     },
     {
       "number": 711,

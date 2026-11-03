@@ -1,5 +1,5 @@
 {
-  "version": "2026-11-03T22:50:41.744Z",
+  "version": "2026-11-03T22:51:31.121Z",
   "sold": [
     {
       "number": 14,
@@ -58,6 +58,13 @@
       "verifiedAt": "2026-11-02T22:41:13.773Z"
     },
     {
+      "number": 139,
+      "buyer": "Karol M.",
+      "city": "Villanueva",
+      "purchasedAt": "2026-11-03T22:48:07.348Z",
+      "verifiedAt": "2026-11-03T22:51:31.093Z"
+    },
+    {
       "number": 164,
       "buyer": "Maicol R.",
       "city": "Villanueva",
@@ -70,6 +77,13 @@
       "city": "Villanueva",
       "purchasedAt": "2026-11-03T20:34:01.261Z",
       "verifiedAt": "2026-11-03T22:44:55.060Z"
+    },
+    {
+      "number": 197,
+      "buyer": "Karol M.",
+      "city": "Villanueva",
+      "purchasedAt": "2026-11-03T22:48:07.348Z",
+      "verifiedAt": "2026-11-03T22:51:31.093Z"
     },
     {
       "number": 226,
@@ -107,6 +121,20 @@
       "verifiedAt": "2026-11-03T22:50:41.716Z"
     },
     {
+      "number": 382,
+      "buyer": "Karol M.",
+      "city": "Villanueva",
+      "purchasedAt": "2026-11-03T22:48:07.348Z",
+      "verifiedAt": "2026-11-03T22:51:31.093Z"
+    },
+    {
+      "number": 407,
+      "buyer": "Karol M.",
+      "city": "Villanueva",
+      "purchasedAt": "2026-11-03T22:48:07.348Z",
+      "verifiedAt": "2026-11-03T22:51:31.093Z"
+    },
+    {
       "number": 424,
       "buyer": "Ismael B.",
       "city": "Villanueva",
@@ -142,6 +170,13 @@
       "verifiedAt": "2026-11-02T23:39:51.214Z"
     },
     {
+      "number": 652,
+      "buyer": "Karol M.",
+      "city": "Villanueva",
+      "purchasedAt": "2026-11-03T22:48:07.348Z",
+      "verifiedAt": "2026-11-03T22:51:31.093Z"
+    },
+    {
       "number": 691,
       "buyer": "Mónica S.",
       "city": "Villanuva",
@@ -161,6 +196,13 @@
       "city": "villanueva",
       "purchasedAt": "2026-11-03T20:55:20.044Z",
       "verifiedAt": "2026-11-03T20:56:38.919Z"
+    },
+    {
+      "number": 755,
+      "buyer": "Karol M.",
+      "city": "Villanueva",
+      "purchasedAt": "2026-11-03T22:48:07.348Z",
+      "verifiedAt": "2026-11-03T22:51:31.093Z"
     },
     {
       "number": 777,

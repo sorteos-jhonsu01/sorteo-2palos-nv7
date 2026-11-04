@@ -1,5 +1,5 @@
 {
-  "version": "2026-11-04T03:56:25.813Z",
+  "version": "2026-11-04T15:15:50.623Z",
   "sold": [
     {
       "number": 12,
@@ -177,6 +177,13 @@
       "verifiedAt": "2026-11-03T22:51:31.093Z"
     },
     {
+      "number": 412,
+      "buyer": "Yaneth O.",
+      "city": "Cabuyaro",
+      "purchasedAt": "2026-11-04T14:57:39.321Z",
+      "verifiedAt": "2026-11-04T15:15:50.566Z"
+    },
+    {
       "number": 424,
       "buyer": "Ismael B.",
       "city": "Villanueva",
@@ -238,6 +245,20 @@
       "city": "Villanueva",
       "purchasedAt": "2026-11-03T22:48:07.348Z",
       "verifiedAt": "2026-11-03T22:51:31.093Z"
+    },
+    {
+      "number": 654,
+      "buyer": "Yaneth O.",
+      "city": "Cabuyaro",
+      "purchasedAt": "2026-11-04T14:57:39.321Z",
+      "verifiedAt": "2026-11-04T15:15:50.566Z"
+    },
+    {
+      "number": 667,
+      "buyer": "Yaneth O.",
+      "city": "Cabuyaro",
+      "purchasedAt": "2026-11-04T14:57:39.321Z",
+      "verifiedAt": "2026-11-04T15:15:50.566Z"
     },
     {
       "number": 691,

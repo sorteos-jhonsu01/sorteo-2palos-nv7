@@ -1,5 +1,5 @@
 {
-  "version": "2026-11-04T18:04:38.615Z",
+  "version": "2026-11-04T23:24:50.825Z",
   "sold": [
     {
       "number": 12,
@@ -170,6 +170,13 @@
       "verifiedAt": "2026-11-03T20:56:38.919Z"
     },
     {
+      "number": 305,
+      "buyer": "Juancho Q.",
+      "city": "Villanueva",
+      "purchasedAt": "2026-11-04T23:16:49.747Z",
+      "verifiedAt": "2026-11-04T23:24:50.757Z"
+    },
+    {
       "number": 324,
       "buyer": "Ismael B.",
       "city": "Villanueva",
@@ -219,6 +226,13 @@
       "verifiedAt": "2026-11-03T22:51:31.093Z"
     },
     {
+      "number": 408,
+      "buyer": "Juancho Q.",
+      "city": "Villanueva",
+      "purchasedAt": "2026-11-04T23:16:49.747Z",
+      "verifiedAt": "2026-11-04T23:24:50.757Z"
+    },
+    {
       "number": 412,
       "buyer": "Yaneth O.",
       "city": "Cabuyaro",
@@ -238,6 +252,13 @@
       "city": "Villanueva",
       "purchasedAt": "2026-11-04T00:46:40.399Z",
       "verifiedAt": "2026-11-04T01:04:04.610Z"
+    },
+    {
+      "number": 454,
+      "buyer": "Juancho Q.",
+      "city": "Villanueva",
+      "purchasedAt": "2026-11-04T23:16:49.747Z",
+      "verifiedAt": "2026-11-04T23:24:50.757Z"
     },
     {
       "number": 455,
@@ -282,11 +303,25 @@
       "verifiedAt": "2026-11-03T22:50:41.716Z"
     },
     {
+      "number": 577,
+      "buyer": "Juancho Q.",
+      "city": "Villanueva",
+      "purchasedAt": "2026-11-04T23:16:49.747Z",
+      "verifiedAt": "2026-11-04T23:24:50.757Z"
+    },
+    {
       "number": 609,
       "buyer": "Llanero G.",
       "city": "Villanueva",
       "purchasedAt": "2026-11-04T00:46:40.399Z",
       "verifiedAt": "2026-11-04T01:04:04.610Z"
+    },
+    {
+      "number": 619,
+      "buyer": "Juancho Q.",
+      "city": "Villanueva",
+      "purchasedAt": "2026-11-04T23:16:49.747Z",
+      "verifiedAt": "2026-11-04T23:24:50.757Z"
     },
     {
       "number": 624,
@@ -331,11 +366,25 @@
       "verifiedAt": "2026-11-03T00:01:45.751Z"
     },
     {
+      "number": 698,
+      "buyer": "Juancho Q.",
+      "city": "Villanueva",
+      "purchasedAt": "2026-11-04T23:16:49.747Z",
+      "verifiedAt": "2026-11-04T23:24:50.757Z"
+    },
+    {
       "number": 711,
       "buyer": "Karina R.",
       "city": "Villanueva",
       "purchasedAt": "2026-11-02T22:39:42.157Z",
       "verifiedAt": "2026-11-02T22:41:13.773Z"
+    },
+    {
+      "number": 722,
+      "buyer": "Juancho Q.",
+      "city": "Villanueva",
+      "purchasedAt": "2026-11-04T23:16:49.747Z",
+      "verifiedAt": "2026-11-04T23:24:50.757Z"
     },
     {
       "number": 730,
@@ -359,6 +408,13 @@
       "verifiedAt": "2026-11-03T22:50:41.716Z"
     },
     {
+      "number": 788,
+      "buyer": "Juancho Q.",
+      "city": "Villanueva",
+      "purchasedAt": "2026-11-04T23:16:49.747Z",
+      "verifiedAt": "2026-11-04T23:24:50.757Z"
+    },
+    {
       "number": 832,
       "buyer": "Guanaro I.",
       "city": "Villanueva",
@@ -380,6 +436,13 @@
       "verifiedAt": "2026-11-04T15:18:17.472Z"
     },
     {
+      "number": 920,
+      "buyer": "Juancho Q.",
+      "city": "Villanueva",
+      "purchasedAt": "2026-11-04T23:16:49.747Z",
+      "verifiedAt": "2026-11-04T23:24:50.757Z"
+    },
+    {
       "number": 943,
       "buyer": "Llanero G.",
       "city": "Villanueva",
@@ -392,6 +455,13 @@
       "city": "Villanueva",
       "purchasedAt": "2026-11-03T19:37:46.509Z",
       "verifiedAt": "2026-11-03T19:38:45.790Z"
+    },
+    {
+      "number": 971,
+      "buyer": "Juancho Q.",
+      "city": "Villanueva",
+      "purchasedAt": "2026-11-04T23:16:49.747Z",
+      "verifiedAt": "2026-11-04T23:24:50.757Z"
     },
     {
       "number": 978,

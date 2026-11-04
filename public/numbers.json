@@ -1,5 +1,5 @@
 {
-  "version": "2026-11-04T15:18:17.498Z",
+  "version": "2026-11-04T15:19:09.107Z",
   "sold": [
     {
       "number": 12,
@@ -79,6 +79,13 @@
       "verifiedAt": "2026-11-04T03:56:25.764Z"
     },
     {
+      "number": 120,
+      "buyer": "Jhoan G.",
+      "city": "Villanueva",
+      "purchasedAt": "2026-11-04T15:14:30.692Z",
+      "verifiedAt": "2026-11-04T15:19:09.075Z"
+    },
+    {
       "number": 129,
       "buyer": "Karina R.",
       "city": "Villanueva",
@@ -121,11 +128,25 @@
       "verifiedAt": "2026-11-03T22:51:31.093Z"
     },
     {
+      "number": 222,
+      "buyer": "Jhoan G.",
+      "city": "Villanueva",
+      "purchasedAt": "2026-11-04T15:14:30.692Z",
+      "verifiedAt": "2026-11-04T15:19:09.075Z"
+    },
+    {
       "number": 226,
       "buyer": "Elismary S.",
       "city": "villanueva",
       "purchasedAt": "2026-11-03T20:55:20.044Z",
       "verifiedAt": "2026-11-03T20:56:38.919Z"
+    },
+    {
+      "number": 253,
+      "buyer": "Jhoan G.",
+      "city": "Villanueva",
+      "purchasedAt": "2026-11-04T15:14:30.692Z",
+      "verifiedAt": "2026-11-04T15:19:09.075Z"
     },
     {
       "number": 274,
@@ -170,6 +191,13 @@
       "verifiedAt": "2026-11-03T22:51:31.093Z"
     },
     {
+      "number": 397,
+      "buyer": "Jhoan G.",
+      "city": "Villanueva",
+      "purchasedAt": "2026-11-04T15:14:30.692Z",
+      "verifiedAt": "2026-11-04T15:19:09.075Z"
+    },
+    {
       "number": 407,
       "buyer": "Karol M.",
       "city": "Villanueva",
@@ -196,6 +224,13 @@
       "city": "Villanueva",
       "purchasedAt": "2026-11-04T00:46:40.399Z",
       "verifiedAt": "2026-11-04T01:04:04.610Z"
+    },
+    {
+      "number": 455,
+      "buyer": "Jhoan G.",
+      "city": "Villanueva",
+      "purchasedAt": "2026-11-04T15:14:30.692Z",
+      "verifiedAt": "2026-11-04T15:19:09.075Z"
     },
     {
       "number": 470,
@@ -336,6 +371,13 @@
       "city": "Villanueva",
       "purchasedAt": "2026-11-03T19:37:46.509Z",
       "verifiedAt": "2026-11-03T19:38:45.790Z"
+    },
+    {
+      "number": 978,
+      "buyer": "Jhoan G.",
+      "city": "Villanueva",
+      "purchasedAt": "2026-11-04T15:14:30.692Z",
+      "verifiedAt": "2026-11-04T15:19:09.075Z"
     },
     {
       "number": 997,

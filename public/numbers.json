@@ -1,5 +1,5 @@
 {
-  "version": "2026-11-05T17:02:20.781Z",
+  "version": "2026-11-05T17:26:43.066Z",
   "sold": [
     {
       "number": 1,
@@ -49,6 +49,13 @@
       "city": "Villanueva",
       "purchasedAt": "2026-11-03T20:34:01.261Z",
       "verifiedAt": "2026-11-03T22:44:55.060Z"
+    },
+    {
+      "number": 46,
+      "buyer": "Diego V.",
+      "city": "Puerto gaitan meta",
+      "purchasedAt": "2026-11-05T17:24:26.737Z",
+      "verifiedAt": "2026-11-05T17:26:43.034Z"
     },
     {
       "number": 50,
@@ -478,6 +485,13 @@
       "verifiedAt": "2026-11-05T01:13:27.312Z"
     },
     {
+      "number": 571,
+      "buyer": "Diego V.",
+      "city": "Puerto gaitan meta",
+      "purchasedAt": "2026-11-05T17:24:26.737Z",
+      "verifiedAt": "2026-11-05T17:26:43.034Z"
+    },
+    {
       "number": 577,
       "buyer": "Juancho Q.",
       "city": "Villanueva",
@@ -749,6 +763,13 @@
       "city": "Caribayona",
       "purchasedAt": "2026-11-05T15:10:35.405Z",
       "verifiedAt": "2026-11-05T15:14:48.519Z"
+    },
+    {
+      "number": 967,
+      "buyer": "Diego V.",
+      "city": "Puerto gaitan meta",
+      "purchasedAt": "2026-11-05T17:24:26.737Z",
+      "verifiedAt": "2026-11-05T17:26:43.034Z"
     },
     {
       "number": 971,

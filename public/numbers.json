@@ -1,6 +1,13 @@
 {
-  "version": "2026-11-05T01:05:54.849Z",
+  "version": "2026-11-05T01:13:27.353Z",
   "sold": [
+    {
+      "number": 1,
+      "buyer": "Luis M.",
+      "city": "monterrey",
+      "purchasedAt": "2026-11-03T20:25:56.523Z",
+      "verifiedAt": "2026-11-05T01:13:27.312Z"
+    },
     {
       "number": 12,
       "buyer": "Eduardo M.",
@@ -21,6 +28,13 @@
       "city": "villanueva",
       "purchasedAt": "2026-11-03T20:55:20.044Z",
       "verifiedAt": "2026-11-03T20:56:38.919Z"
+    },
+    {
+      "number": 18,
+      "buyer": "Luis M.",
+      "city": "monterrey",
+      "purchasedAt": "2026-11-03T20:25:56.523Z",
+      "verifiedAt": "2026-11-05T01:13:27.312Z"
     },
     {
       "number": 19,
@@ -261,6 +275,13 @@
       "verifiedAt": "2026-11-04T15:15:50.566Z"
     },
     {
+      "number": 418,
+      "buyer": "Luis M.",
+      "city": "monterrey",
+      "purchasedAt": "2026-11-03T20:25:56.523Z",
+      "verifiedAt": "2026-11-05T01:13:27.312Z"
+    },
+    {
       "number": 424,
       "buyer": "Ismael B.",
       "city": "Villanueva",
@@ -310,6 +331,13 @@
       "verifiedAt": "2026-11-04T15:18:17.472Z"
     },
     {
+      "number": 495,
+      "buyer": "Luis M.",
+      "city": "monterrey",
+      "purchasedAt": "2026-11-03T20:25:56.523Z",
+      "verifiedAt": "2026-11-05T01:13:27.312Z"
+    },
+    {
       "number": 509,
       "buyer": "Maicol R.",
       "city": "Villanueva",
@@ -343,6 +371,13 @@
       "city": "Villanueva",
       "purchasedAt": "2026-11-03T20:51:23.896Z",
       "verifiedAt": "2026-11-03T22:50:41.716Z"
+    },
+    {
+      "number": 567,
+      "buyer": "Luis M.",
+      "city": "monterrey",
+      "purchasedAt": "2026-11-03T20:25:56.523Z",
+      "verifiedAt": "2026-11-05T01:13:27.312Z"
     },
     {
       "number": 577,
@@ -413,6 +448,13 @@
       "city": "Villanueva",
       "purchasedAt": "2026-11-04T23:16:49.747Z",
       "verifiedAt": "2026-11-04T23:24:50.757Z"
+    },
+    {
+      "number": 701,
+      "buyer": "Luis M.",
+      "city": "monterrey",
+      "purchasedAt": "2026-11-03T20:25:56.523Z",
+      "verifiedAt": "2026-11-05T01:13:27.312Z"
     },
     {
       "number": 711,

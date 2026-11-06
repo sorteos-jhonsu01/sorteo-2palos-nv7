@@ -1,5 +1,5 @@
 {
-  "version": "2026-11-06T18:09:12.492Z",
+  "version": "2026-11-06T18:21:13.194Z",
   "sold": [
     {
       "number": 1,
@@ -7,6 +7,13 @@
       "city": "monterrey",
       "purchasedAt": "2026-11-03T20:25:56.523Z",
       "verifiedAt": "2026-11-05T01:13:27.312Z"
+    },
+    {
+      "number": 8,
+      "buyer": "Dayana C.",
+      "city": "Villanueva",
+      "purchasedAt": "2026-11-06T18:19:16.046Z",
+      "verifiedAt": "2026-11-06T18:21:13.141Z"
     },
     {
       "number": 12,
@@ -112,6 +119,13 @@
       "city": "Villanueva",
       "purchasedAt": "2026-11-02T23:54:26.429Z",
       "verifiedAt": "2026-11-02T23:59:12.053Z"
+    },
+    {
+      "number": 94,
+      "buyer": "Dayana C.",
+      "city": "Villanueva",
+      "purchasedAt": "2026-11-06T18:19:16.046Z",
+      "verifiedAt": "2026-11-06T18:21:13.141Z"
     },
     {
       "number": 96,
@@ -464,6 +478,13 @@
       "verifiedAt": "2026-11-03T22:50:41.716Z"
     },
     {
+      "number": 380,
+      "buyer": "Dayana C.",
+      "city": "Villanueva",
+      "purchasedAt": "2026-11-06T18:19:16.046Z",
+      "verifiedAt": "2026-11-06T18:21:13.141Z"
+    },
+    {
       "number": 382,
       "buyer": "Karol M.",
       "city": "Villanueva",
@@ -504,6 +525,13 @@
       "city": "Villanueva",
       "purchasedAt": "2026-11-05T01:38:28.669Z",
       "verifiedAt": "2026-11-05T01:41:19.942Z"
+    },
+    {
+      "number": 402,
+      "buyer": "Dayana C.",
+      "city": "Villanueva",
+      "purchasedAt": "2026-11-06T18:19:16.046Z",
+      "verifiedAt": "2026-11-06T18:21:13.141Z"
     },
     {
       "number": 406,
@@ -835,6 +863,13 @@
       "verifiedAt": "2026-11-05T17:45:24.155Z"
     },
     {
+      "number": 630,
+      "buyer": "Dayana C.",
+      "city": "Villanueva",
+      "purchasedAt": "2026-11-06T18:19:16.046Z",
+      "verifiedAt": "2026-11-06T18:21:13.141Z"
+    },
+    {
       "number": 633,
       "buyer": "Arturo R.",
       "city": "Villanueva",
@@ -1008,6 +1043,13 @@
       "city": "villanueva",
       "purchasedAt": "2026-11-03T20:55:20.044Z",
       "verifiedAt": "2026-11-03T20:56:38.919Z"
+    },
+    {
+      "number": 740,
+      "buyer": "Dayana C.",
+      "city": "Villanueva",
+      "purchasedAt": "2026-11-06T18:19:16.046Z",
+      "verifiedAt": "2026-11-06T18:21:13.141Z"
     },
     {
       "number": 741,

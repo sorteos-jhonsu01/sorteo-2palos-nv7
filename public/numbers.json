@@ -1,5 +1,5 @@
 {
-  "version": "2026-11-06T20:01:58.355Z",
+  "version": "2026-11-06T20:24:26.591Z",
   "sold": [
     {
       "number": 1,
@@ -366,6 +366,13 @@
       "verifiedAt": "2026-11-06T17:44:21.157Z"
     },
     {
+      "number": 261,
+      "buyer": "Yuly C.",
+      "city": "Villanueva",
+      "purchasedAt": "2026-11-06T20:22:28.974Z",
+      "verifiedAt": "2026-11-06T20:24:26.565Z"
+    },
+    {
       "number": 262,
       "buyer": "Alvaro S.",
       "city": "villanueva",
@@ -427,6 +434,13 @@
       "city": "República Dominicana",
       "purchasedAt": "2026-11-06T17:18:18.267Z",
       "verifiedAt": "2026-11-06T17:21:40.399Z"
+    },
+    {
+      "number": 288,
+      "buyer": "Yuly C.",
+      "city": "Villanueva",
+      "purchasedAt": "2026-11-06T20:22:28.974Z",
+      "verifiedAt": "2026-11-06T20:24:26.565Z"
     },
     {
       "number": 295,
@@ -1351,6 +1365,13 @@
       "city": "villanueva",
       "purchasedAt": "2026-11-06T18:05:15.947Z",
       "verifiedAt": "2026-11-06T18:05:38.941Z"
+    },
+    {
+      "number": 900,
+      "buyer": "Yuly C.",
+      "city": "Villanueva",
+      "purchasedAt": "2026-11-06T20:22:28.974Z",
+      "verifiedAt": "2026-11-06T20:24:26.565Z"
     },
     {
       "number": 915,

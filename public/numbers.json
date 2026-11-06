@@ -1,5 +1,5 @@
 {
-  "version": "2026-11-06T20:57:24.080Z",
+  "version": "2026-11-06T21:19:28.313Z",
   "sold": [
     {
       "number": 1,
@@ -478,6 +478,20 @@
       "verifiedAt": "2026-11-06T15:15:52.082Z"
     },
     {
+      "number": 298,
+      "buyer": "Genesis V.",
+      "city": "Villanueva",
+      "purchasedAt": "2026-11-03T20:12:27.581Z",
+      "verifiedAt": "2026-11-06T21:19:28.289Z"
+    },
+    {
+      "number": 299,
+      "buyer": "Genesis V.",
+      "city": "Villanueva",
+      "purchasedAt": "2026-11-03T20:12:27.581Z",
+      "verifiedAt": "2026-11-06T21:19:28.289Z"
+    },
+    {
       "number": 305,
       "buyer": "Juancho Q.",
       "city": "Villanueva",
@@ -567,6 +581,13 @@
       "city": "Villanueva",
       "purchasedAt": "2026-11-06T20:55:26.709Z",
       "verifiedAt": "2026-11-06T20:57:24.051Z"
+    },
+    {
+      "number": 378,
+      "buyer": "Genesis V.",
+      "city": "Villanueva",
+      "purchasedAt": "2026-11-03T20:12:27.581Z",
+      "verifiedAt": "2026-11-06T21:19:28.289Z"
     },
     {
       "number": 380,

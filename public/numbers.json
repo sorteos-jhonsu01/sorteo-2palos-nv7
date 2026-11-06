@@ -1,5 +1,5 @@
 {
-  "version": "2026-11-05T17:48:26.571Z",
+  "version": "2026-11-06T00:09:07.311Z",
   "sold": [
     {
       "number": 1,
@@ -357,13 +357,6 @@
       "city": "monterrey",
       "purchasedAt": "2026-11-03T20:25:56.523Z",
       "verifiedAt": "2026-11-05T01:13:27.312Z"
-    },
-    {
-      "number": 424,
-      "buyer": "Ismael B.",
-      "city": "Villanueva",
-      "purchasedAt": "2026-11-02T23:29:55.656Z",
-      "verifiedAt": "2026-11-02T23:39:51.214Z"
     },
     {
       "number": 429,

@@ -1,5 +1,5 @@
 {
-  "version": "2026-11-07T00:34:06.726Z",
+  "version": "2026-11-07T01:10:14.549Z",
   "sold": [
     {
       "number": 1,
@@ -265,6 +265,13 @@
       "city": "Yopal Casanare",
       "purchasedAt": "2026-11-04T23:47:38.240Z",
       "verifiedAt": "2026-11-04T23:51:17.980Z"
+    },
+    {
+      "number": 149,
+      "buyer": "Yadir L.",
+      "city": "Villanueva",
+      "purchasedAt": "2026-11-07T01:08:32.329Z",
+      "verifiedAt": "2026-11-07T01:10:14.516Z"
     },
     {
       "number": 151,
@@ -770,6 +777,13 @@
       "verifiedAt": "2026-11-06T00:16:22.853Z"
     },
     {
+      "number": 425,
+      "buyer": "Yadir L.",
+      "city": "Villanueva",
+      "purchasedAt": "2026-11-07T01:08:32.329Z",
+      "verifiedAt": "2026-11-07T01:10:14.516Z"
+    },
+    {
       "number": 427,
       "buyer": "Anaís V.",
       "city": "Villanueva",
@@ -1085,6 +1099,13 @@
       "verifiedAt": "2026-11-05T17:26:43.034Z"
     },
     {
+      "number": 572,
+      "buyer": "Yadir L.",
+      "city": "Villanueva",
+      "purchasedAt": "2026-11-07T01:08:32.329Z",
+      "verifiedAt": "2026-11-07T01:10:14.516Z"
+    },
+    {
       "number": 577,
       "buyer": "Juancho Q.",
       "city": "Villanueva",
@@ -1382,6 +1403,13 @@
       "city": "villanueva",
       "purchasedAt": "2026-11-06T15:20:31.460Z",
       "verifiedAt": "2026-11-06T15:22:22.019Z"
+    },
+    {
+      "number": 746,
+      "buyer": "Yadir L.",
+      "city": "Villanueva",
+      "purchasedAt": "2026-11-07T01:08:32.329Z",
+      "verifiedAt": "2026-11-07T01:10:14.516Z"
     },
     {
       "number": 755,
@@ -1793,6 +1821,13 @@
       "city": "Villanueva",
       "purchasedAt": "2026-11-04T15:14:30.692Z",
       "verifiedAt": "2026-11-04T15:19:09.075Z"
+    },
+    {
+      "number": 980,
+      "buyer": "Yadir L.",
+      "city": "Villanueva",
+      "purchasedAt": "2026-11-07T01:08:32.329Z",
+      "verifiedAt": "2026-11-07T01:10:14.516Z"
     },
     {
       "number": 985,

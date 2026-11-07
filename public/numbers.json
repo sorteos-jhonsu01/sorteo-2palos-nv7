@@ -1,5 +1,5 @@
 {
-  "version": "2026-11-07T03:07:49.086Z",
+  "version": "2026-11-07T03:12:04.722Z",
   "sold": [
     {
       "number": 1,
@@ -356,6 +356,13 @@
       "city": "Villanueva",
       "purchasedAt": "2026-11-03T19:49:32.443Z",
       "verifiedAt": "2026-11-06T16:41:29.462Z"
+    },
+    {
+      "number": 178,
+      "buyer": "Maria L.",
+      "city": "Villanueva",
+      "purchasedAt": "2026-11-07T03:11:02.679Z",
+      "verifiedAt": "2026-11-07T03:12:04.699Z"
     },
     {
       "number": 179,

@@ -1,5 +1,5 @@
 {
-  "version": "2026-11-07T00:21:16.737Z",
+  "version": "2026-11-07T00:33:56.765Z",
   "sold": [
     {
       "number": 1,
@@ -314,6 +314,13 @@
       "city": "Villanueva",
       "purchasedAt": "2026-11-03T19:49:32.443Z",
       "verifiedAt": "2026-11-06T16:41:29.462Z"
+    },
+    {
+      "number": 182,
+      "buyer": "Ana M.",
+      "city": "Vereda santa helena",
+      "purchasedAt": "2026-11-07T00:29:38.883Z",
+      "verifiedAt": "2026-11-07T00:33:56.742Z"
     },
     {
       "number": 195,
@@ -1202,6 +1209,13 @@
       "verifiedAt": "2026-11-04T15:15:50.566Z"
     },
     {
+      "number": 670,
+      "buyer": "Ana M.",
+      "city": "Vereda santa helena",
+      "purchasedAt": "2026-11-07T00:29:38.883Z",
+      "verifiedAt": "2026-11-07T00:33:56.742Z"
+    },
+    {
       "number": 674,
       "buyer": "Enzo C.",
       "city": "villanueva",
@@ -1625,6 +1639,13 @@
       "city": "Villanueva",
       "purchasedAt": "2026-11-06T01:37:04.114Z",
       "verifiedAt": "2026-11-06T03:05:33.355Z"
+    },
+    {
+      "number": 917,
+      "buyer": "Ana M.",
+      "city": "Vereda santa helena",
+      "purchasedAt": "2026-11-07T00:29:38.883Z",
+      "verifiedAt": "2026-11-07T00:33:56.742Z"
     },
     {
       "number": 920,

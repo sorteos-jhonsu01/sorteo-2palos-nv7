@@ -1,5 +1,5 @@
 {
-  "version": "2026-11-07T01:26:44.606Z",
+  "version": "2026-11-07T01:58:52.280Z",
   "sold": [
     {
       "number": 1,
@@ -105,6 +105,13 @@
       "city": "Villanuva",
       "purchasedAt": "2026-11-02T23:58:18.637Z",
       "verifiedAt": "2026-11-03T00:01:45.751Z"
+    },
+    {
+      "number": 65,
+      "buyer": "Diana A.",
+      "city": "Villanueva",
+      "purchasedAt": "2026-11-03T19:47:42.211Z",
+      "verifiedAt": "2026-11-07T01:58:52.254Z"
     },
     {
       "number": 69,
@@ -847,6 +854,13 @@
       "verifiedAt": "2026-11-06T23:09:58.773Z"
     },
     {
+      "number": 448,
+      "buyer": "Diana A.",
+      "city": "Villanueva",
+      "purchasedAt": "2026-11-03T19:47:42.211Z",
+      "verifiedAt": "2026-11-07T01:58:52.254Z"
+    },
+    {
       "number": 449,
       "buyer": "Nataly A.",
       "city": "Villanueva",
@@ -957,6 +971,13 @@
       "city": "villanueva",
       "purchasedAt": "2026-11-06T15:20:31.460Z",
       "verifiedAt": "2026-11-06T15:22:22.019Z"
+    },
+    {
+      "number": 498,
+      "buyer": "Diana A.",
+      "city": "Villanueva",
+      "purchasedAt": "2026-11-03T19:47:42.211Z",
+      "verifiedAt": "2026-11-07T01:58:52.254Z"
     },
     {
       "number": 502,
@@ -1242,6 +1263,13 @@
       "city": "Cabuyaro",
       "purchasedAt": "2026-11-04T14:57:39.321Z",
       "verifiedAt": "2026-11-04T15:15:50.566Z"
+    },
+    {
+      "number": 655,
+      "buyer": "Diana A.",
+      "city": "Villanueva",
+      "purchasedAt": "2026-11-03T19:47:42.211Z",
+      "verifiedAt": "2026-11-07T01:58:52.254Z"
     },
     {
       "number": 667,

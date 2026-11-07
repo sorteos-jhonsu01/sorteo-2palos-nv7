@@ -1,5 +1,5 @@
 {
-  "version": "2026-11-07T03:34:45.788Z",
+  "version": "2026-11-07T04:50:04.415Z",
   "sold": [
     {
       "number": 1,
@@ -142,6 +142,13 @@
       "verifiedAt": "2026-11-07T01:58:52.254Z"
     },
     {
+      "number": 68,
+      "buyer": "Guanaro N.",
+      "city": "Villanueva",
+      "purchasedAt": "2026-11-07T04:40:43.397Z",
+      "verifiedAt": "2026-11-07T04:50:04.329Z"
+    },
+    {
       "number": 69,
       "buyer": "Eduardo M.",
       "city": "Villanueva",
@@ -182,6 +189,13 @@
       "city": "Villanueva",
       "purchasedAt": "2026-11-06T19:09:16.376Z",
       "verifiedAt": "2026-11-06T23:29:26.884Z"
+    },
+    {
+      "number": 83,
+      "buyer": "Guanaro N.",
+      "city": "Villanueva",
+      "purchasedAt": "2026-11-07T04:40:43.397Z",
+      "verifiedAt": "2026-11-07T04:50:04.329Z"
     },
     {
       "number": 85,
@@ -251,6 +265,13 @@
       "buyer": "Jessika R.",
       "purchasedAt": "2026-11-03T19:51:29.836Z",
       "verifiedAt": "2026-11-06T23:44:02.814Z"
+    },
+    {
+      "number": 114,
+      "buyer": "Guanaro N.",
+      "city": "Villanueva",
+      "purchasedAt": "2026-11-07T04:40:43.397Z",
+      "verifiedAt": "2026-11-07T04:50:04.329Z"
     },
     {
       "number": 120,
@@ -1162,6 +1183,13 @@
       "verifiedAt": "2026-11-07T01:58:52.254Z"
     },
     {
+      "number": 501,
+      "buyer": "Guanaro N.",
+      "city": "Villanueva",
+      "purchasedAt": "2026-11-07T04:40:43.397Z",
+      "verifiedAt": "2026-11-07T04:50:04.329Z"
+    },
+    {
       "number": 502,
       "buyer": "Carlos J.",
       "city": "Villanueva",
@@ -1223,6 +1251,13 @@
       "city": "Villanueva",
       "purchasedAt": "2026-11-06T19:22:53.633Z",
       "verifiedAt": "2026-11-06T20:00:23.149Z"
+    },
+    {
+      "number": 525,
+      "buyer": "Guanaro N.",
+      "city": "Villanueva",
+      "purchasedAt": "2026-11-07T04:40:43.397Z",
+      "verifiedAt": "2026-11-07T04:50:04.329Z"
     },
     {
       "number": 527,
@@ -2129,6 +2164,13 @@
       "city": "Villanueva",
       "purchasedAt": "2026-11-04T03:23:19.623Z",
       "verifiedAt": "2026-11-07T02:41:12.178Z"
+    },
+    {
+      "number": 963,
+      "buyer": "Guanaro N.",
+      "city": "Villanueva",
+      "purchasedAt": "2026-11-07T04:40:43.397Z",
+      "verifiedAt": "2026-11-07T04:50:04.329Z"
     },
     {
       "number": 964,
